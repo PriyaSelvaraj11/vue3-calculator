@@ -4,9 +4,9 @@ A calculator application built using **Vue JS, Typescript, Tailwind CSS and Vite
     npm run dev
 
 ## Screenshots of application
-![Alt text](/appImages/DarkMode.png?raw=true "Dark Mode") ![Alt text](/appImages/LightMode.png?raw=true "Light Mode")
+<img src="/appImages/DarkMode.png" alt="Dark Mode" width="300"/>  <img src="/appImages/LightMode.png" alt="Light Mode" width="300"/> 
 
 ## Code coverage stats
-![Alt text](/appImages/CodeCoverage.png?raw=true "Code Coverage")
+<img src="/appImages/CodeCoverage.png" alt="Code Coverage" width="400"/> 
 
 
