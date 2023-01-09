@@ -1,4 +1,4 @@
-A calculator application built using **Vue JS, Typescript, Tailwind CSS and Vite**.
+A calculator application built using **Vue JS, Typescript, Tailwind CSS, Vite and Vitest**.
 
 #### Commands to start the application
     npm run dev
